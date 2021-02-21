@@ -1,0 +1,57 @@
+{
+  "home": [
+    {
+      "anh": "https://github.com/Letuyen1990/cocolementvideo/raw/main/abcsong.JPG",
+      "url": "https://github.com/Letuyen1990/cocolementvideo/raw/main/ABC.mp4",
+      "tieuDe": "ABC Phonics Song"
+    },
+    {
+      "anh": "https://github.com/Letuyen1990/cocolementvideo/raw/main/bathsong.JPG",
+      "url": "https://github.com/Letuyen1990/cocolementvideo/raw/main/Bath%20Song%20-%20CoComelon%20Nursery%20Rhymes%20%26%20Kids%20Songs.mp4",
+      "tieuDe": "Bath Song"
+    },
+    {
+      "anh": "https://github.com/Letuyen1990/cocolementvideo/raw/main/freezedancesong.JPG",
+      "url": "https://github.com/Letuyen1990/cocolementvideo/raw/main/Freeze%20Dance%20Song%20-%20CoComelon%20Nursery%20Rhymes%20%26%20Kids%20Songs.mp4",
+      "tieuDe": "Freeze Dance Song"
+    },
+    {
+      "anh": "https://github.com/Letuyen1990/cocolementvideo/raw/main/garagesalesong.JPG",
+      "url": "https://github.com/Letuyen1990/cocolementvideo/raw/main/Garage%20Sale%20Song%20-%20CoComelon%20Nursery%20Rhymes%20%26%20Kids%20Songs.mp4",
+      "tieuDe": "Garage Sale Song"
+    },
+
+    {
+      "anh": "https://github.com/Letuyen1990/cocolementvideo/raw/main/pizzasong.JPG",
+      "url": "https://github.com/Letuyen1990/cocolementvideo/raw/main/Pizza%20Song%20-%20CoComelon%20Nursery%20Rhymes%20%26%20Kids%20Songs.mp4",
+      "tieuDe": "Pizza Song"
+    }
+  ],
+  "trending": [
+    {
+      "anh": "https://github.com/Letuyen1990/cocolementvideo/raw/main/pretendplaysong.JPG",
+      "url": "https://github.com/Letuyen1990/cocolementvideo/raw/main/Pretend%20Play%20Song%20-%20CoComelon%20Nursery%20Rhymes%20%26%20Kids%20Songs.mp4",
+      "tieuDe": "Pretend Play Song"
+    },
+    {
+      "anh": "https://github.com/Letuyen1990/cocolementvideo/raw/main/sticktoit.JPG",
+      "url": "https://github.com/Letuyen1990/cocolementvideo/raw/main/Stick%20To%20It%20-%20CoComelon%20Nursery%20Rhymes%20%26%20Kids%20Songs.mp4",
+      "tieuDe": "Stick To It"
+    },
+    {
+      "anh": "https://github.com/Letuyen1990/cocolementvideo/raw/main/thankyousong.JPG",
+      "url": "https://github.com/Letuyen1990/cocolementvideo/raw/main/Thank%20You%20Song%20-%20CoComelon%20Nursery%20Rhymes%20%26%20Kids%20Songs.mp4",
+      "tieuDe": "Thank You Song"
+    },
+    {
+      "anh": "https://github.com/Letuyen1990/cocolementvideo/raw/main/valentineday.JPG",
+      "url": "https://github.com/Letuyen1990/cocolementvideo/raw/main/Valentine's%20Day%20Song%20-%20CoComelon%20Nursery%20Rhymes%20%26%20Kids%20Songs.mp4",
+      "tieuDe": "Valentine's Day Song"
+    },
+    {
+      "anh": "https://github.com/Letuyen1990/cocolementvideo/raw/main/yesyesbedtime.JPG",
+      "url": "https://github.com/Letuyen1990/cocolementvideo/raw/main/Yes%20Yes%20Bedtime%20Camping%20Song%20-%20CoComelon%20Nursery%20Rhymes%20%26%20Kids%20Songs.mp4",
+      "tieuDe": "Yes Yes Bedtime Camping Song"
+    }
+  ]
+}
